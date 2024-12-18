@@ -1,0 +1,11 @@
+species,phylum,count
+SpeciesA,Firmicutes,120
+SpeciesB,Firmicutes,80
+SpeciesC,Bacteroidetes,200
+SpeciesD,Bacteroidetes,50
+SpeciesE,Proteobacteria,300
+SpeciesF,Actinobacteria,150
+SpeciesG,Actinobacteria,100
+SpeciesH,Firmicutes,70
+SpeciesI,Proteobacteria,90
+SpeciesJ,Bacteroidetes,60
